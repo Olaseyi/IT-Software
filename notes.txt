@@ -1,0 +1,24 @@
+pixels.com-images of team
+clients
+
+flow
+what we develop
+another paragraph
+3 images 
+paragarph
+
+
+footer
+
+darkslategrey
+lightgreen
+lightblue
+lightcorel
+darkslategrey;color:white
+
+violet
+yellow
+
+image
+320
+190
